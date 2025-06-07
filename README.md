@@ -1,7 +1,3 @@
-### Hi there 👋
-## I am just a rookie developer hoping to expand my horizons in Computer Programming.
-## Hoping to learn different languages and the underlying concepts that actually make our world run.
-
 <!--
 **multiversal-aspirator/multiversal-aspirator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
